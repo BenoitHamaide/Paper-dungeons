@@ -1,0 +1,112 @@
+body{/* 
+    background-color: rgb(181, 172, 172); */
+    background: url(../extractpdf/FR_Manual_v1.1-000.png);
+    background-size: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Convergence', sans-serif;
+}
+main{
+    width: 80%;
+    background: url(../extractpdf/fundo_de_texto_preview_rev_1.png);
+    background-size: 100%;
+    margin: auto;
+    padding-top: 2%;
+    margin-top: 3%;
+    opacity: 85%;
+}
+h1{
+    margin-bottom: 4%;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h2{
+    font-size: 1.6em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.text_red{
+    color: red;
+}
+.logo{
+    width: 80%;
+}
+.introduction{
+    padding: 4%;
+}
+ul{
+    list-style-type: none; 
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-inline-start: 0px;
+}
+.nav-item li{
+    background-color: grey;
+    border-radius: 8px;
+    border: 1px;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 1em;
+    opacity: 77%;
+}
+.nav-item li:hover{
+    background-color: black;
+}
+.container-fluid ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 0 20%;
+}
+.caract{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 3%;
+    align-items: center;
+}
+.caract p{
+    font-size: 1.8em;
+}
+footer{
+    background: url(../extract\ pdf/fundo_de_texto_preview_rev_1.png);
+    background-size: 100%;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    height: 158px;
+    opacity: 85%;
+    
+}
+footer ul{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+footer li{
+    height: 98px;
+    width: 113px;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+a:hover{
+color: red;
+background-color: black;
+}
+a:active{
+    color: #D1B568;
+}
+footer img{
+    width: 3%;
+    margin-top: -30px;
+}
+.copy{
+    font-size: 0.2em;
+    font-style: italic;
+}

@@ -1,0 +1,256 @@
+%!Adobe-FontList 1.22
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSans-Bold
+FamilyName:Libertinus Sans
+StyleName:Bold
+FullName:Libertinus Sans Bold
+MenuName:Libertinus Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSans-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:503304
+FileModTime:1605528035
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Libertinus Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSans-Regular
+FamilyName:Libertinus Sans
+StyleName:Regular
+FullName:Libertinus Sans
+MenuName:Libertinus Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:405780
+FileModTime:1605528035
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Libertinus Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSerif-Bold
+FamilyName:Libertinus Serif
+StyleName:Bold
+FullName:Libertinus Serif Bold
+MenuName:Libertinus Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSerif-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:427632
+FileModTime:1605528035
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Libertinus Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSerif-BoldItalic
+FamilyName:Libertinus Serif
+StyleName:Bold Italic
+FullName:Libertinus Serif Bold Italic
+MenuName:Libertinus Serif
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSerif-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:388016
+FileModTime:1605528036
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Libertinus Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSerif-Italic
+FamilyName:Libertinus Serif
+StyleName:Italic
+FullName:Libertinus Serif Italic
+MenuName:Libertinus Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSerif-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:440024
+FileModTime:1605528035
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Libertinus Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LibertinusSerif-Regular
+FamilyName:Libertinus Serif
+StyleName:Regular
+FullName:Libertinus Serif
+MenuName:Libertinus Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\LibertinusSerif-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:457084
+FileModTime:1605528035
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Libertinus Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ElanITCStd-Black
+FamilyName:Elan ITC Std
+StyleName:Black
+FullName:Elan ITC Std Black
+MenuName:Elan ITC Std Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\elanitcstd-black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33384
+FileModTime:1605528035
+WeightClass:750
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Elan ITC Std Black
+NameArray:0,Win,1,Elan ITC Std Medium
+NameArray:0,Win,16,Elan ITC Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ElanITCStd-Bold
+FamilyName:Elan ITC Std
+StyleName:Bold
+FullName:Elan ITC Std Bold
+MenuName:Elan ITC Std Book
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\elanitcstd-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33012
+FileModTime:1605528035
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Elan ITC Std Bold
+NameArray:0,Win,1,Elan ITC Std Book
+NameArray:0,Win,16,Elan ITC Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ElanITCStd-Medium
+FamilyName:Elan ITC Std
+StyleName:Medium
+FullName:Elan ITC Std Medium
+MenuName:Elan ITC Std Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\elanitcstd-medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41624
+FileModTime:1605528035
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Elan ITC Std Medium
+NameArray:0,Win,1,Elan ITC Std Medium
+NameArray:0,Win,16,Elan ITC Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-Regular
+FamilyName:Myriad Hebrew
+StyleName:Regular
+FullName:Myriad Hebrew
+MenuName:Myriad Hebrew
+StyleBits:0
+FamilyNameNative:Myriad עברית
+StyleNameNative:Regular
+FullNameNative:Myriad עברית Regular
+WritingScript:Hebrew
+OutlineFileName:D:\Dropbox\GRAPHISME\1 - Clients\Super Meeple\12 - Paper Dungeons\0 Livraison\Assemblage\Dossier FR_Manual_v1.1\Document fonts\myriad-hebrew-4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80464
+FileModTime:1605790215
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Myriad Hebrew Regular
+NameArray:0,Mac,4,Myriad Hebrew
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
